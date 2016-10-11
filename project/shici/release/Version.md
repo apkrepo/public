@@ -1,15 +1,16 @@
 # Lastest Version
 
 ---
-## Get [lastest version](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.3.apk "Shici.apk")
+## Get [lastest version](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.4.apk "Shici.apk")
 ---
 
 
 # Histroy Version(with lastest)
 
 ---
-## Get [Ver0.1.13](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.13.apk "Shici.apk")
-## Get [Ver0.0.9 ](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.0.9.apk "Shici.apk")
+## Get [Ver0.1.4](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.4.apk "Shici.apk")
+## Get [Ver0.1.3](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.3.apk "Shici.apk")
+## Get [Ver0.0.9](https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.0.9.apk "Shici.apk")
 ---
 
 # This File

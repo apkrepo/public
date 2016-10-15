@@ -9,7 +9,8 @@
     <app name="shici" apkname="shici">
         <versionlists>
         	<versionlist name="all">
-        		<version tag="lastest" name="shici" versionCode="014" versionName="v0.1.4" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.4.apk" />
+				<version tag="lastest" name="shici" versionCode="016" versionName="v0.1.6" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.6.apk" />
+        		<version tag="history" name="shici" versionCode="014" versionName="v0.1.4" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.4.apk" />
         		<version tag="history" name="shici" versionCode="013" versionName="v0.1.3" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.3.apk" />
         		<version tag="history" name="shici" versionCode="009" versionName="v0.0.9" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.0.9.apk" />
         	</versionlist>        

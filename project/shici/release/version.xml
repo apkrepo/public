@@ -4,13 +4,13 @@
 3.判断最新apk逻辑为：1.找tag=lastest行; 2.或找到ver最大者（较烦）.
 4.虽本xml支持多个versionlist，但暂时请不要扩展，以便最小化文档维护量，少更新读取逻辑.
  -->
-<me name=“version.xml" type="txt" extension="xml" dldrul="https://api.github.com/repos/apkrepo/public/contents/project/shici/release/version.xml">
+<me name="version.xml" type="txt" extension="xml" dldrul="https://api.github.com/repos/apkrepo/public/contents/project/shici/release/version.xml">
     <app name="shici" apkname="shici">
         <versionlists>
         	<versionlist name="all">
-        		<version tag="lastest" name="shici" ver="0.1.4" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.4.apk">
-        		<version tag="history" name="shici" ver="0.1.3" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.3.apk">
-        		<version tag="history" name="shici" ver="0.0.9" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.0.9.apk">
+        		<version tag="lastest" name="shici" ver="0.1.4" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/history/shici-0.1.4.apk" />
+        		<version tag="history" name="shici" ver="0.1.3" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.1.3.apk" />
+        		<version tag="history" name="shici" ver="0.0.9" dldurl="https://raw.githubusercontent.com/apkrepo/public/master/project/shici/release/hsitory/shici-0.0.9.apk" />
         	</versionlist>        
         </versionlists>
     </app>
